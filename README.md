@@ -17,7 +17,7 @@
               /       \               : o *           . o   
              /         \            @ :                 o   
             /           \ : : : : : .                   o   
-    . o o : -           -    hello                      : @ 
+    . o o . -           -    hello                      : @ 
   o :        ---_____---        i am                    . @ 
   o                                 whale               . @ 
 o *       .        i have got a bucket on my head     . o o 
