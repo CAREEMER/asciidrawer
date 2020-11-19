@@ -18,12 +18,12 @@
              /         \            @ :                 o   
             /           \ : : : : : .                   o   
     . o o : -           -    hello                      : @ 
-  @ :        ---_____---        i am                    . @ 
+  o :        ---_____---        i am                    . @ 
   o                                 whale               . @ 
-@ *       .        i have got a bucket on my head     . o o 
-@         @ :         nice to meet you           : * o * o   
-@                               . . . . : * * : :   . : o   
-@                       . . : * * * * * * : * * . : o o :   
+o *       .        i have got a bucket on my head     . o o 
+o         @ :         nice to meet you           : * o * o   
+o                               . . . . : * * : :   . : o   
+o                       . . : * * * * * * : * * . : o o :   
 . *               : * * . . . : * .           . : . : o .   
   * o * : : : : : o :           : * . .     . . . : * .     
     * o           . o o o *   .   . o o : . . . o @         
