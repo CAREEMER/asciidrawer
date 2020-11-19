@@ -27,7 +27,7 @@ o                       . . : * * * * * * : * * . : o o :
 . *               : * * . . . : * .           . : . : o .   
   * o * : : : : : o :           : * . .     . . . : * .     
     * o           . o o o *   .   . o o : . . . o @         
-```      . . . : o o o o o o @ o o o o o @ @ * o * .           
+      . . . : o o o o o o @ o o o o o @ @ * o * .           
 *slightly modified rendered ascii art from whale.png picture in repo
 
 You will need skimage lib for python (just use [pip install -U scikit-image] in terminal).
